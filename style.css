@@ -27,8 +27,10 @@ body {
     background-color: red;
     width: 150px;
     height: 150px;
-    margin: 5px;
-  }
+    margin: 15px;
+    border-radius: 20px;
+
+}
     
   .boto.blau {
     background-color: blue;
